@@ -1,0 +1,7 @@
+fastText/
+InferSent/
+encoder/
+presentations/
+data/tagged_data/
+.ipynb*
+infersent*
