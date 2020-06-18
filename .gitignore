@@ -2,6 +2,7 @@ fastText/
 InferSent/
 encoder/
 presentations/
+data/
 data/tagged_data/
 .ipynb*
 infersent*
